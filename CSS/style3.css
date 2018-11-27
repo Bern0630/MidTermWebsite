@@ -1,0 +1,60 @@
+html {
+    background-image: url(../img/backgroundimg.jpg);
+    width: 100%;
+    height: 100%;
+  }
+
+  body {
+    font-size: 20px;
+    font-family:cursive, Helvetica, sans-serif;
+  }
+
+  .back{
+    font-size: 26px;
+    width: 100px;
+    height: 25px;
+    padding: 5px;
+    background-color: black;
+    color: white; 
+    text-decoration: none;
+  }
+
+img{
+    padding: 15px;
+}
+
+.School{
+    text-decoration: none;
+    padding: 10px;
+    background-color: #AAFFEE;
+}
+
+.School:hover{
+    background-color: #0000FF;
+    color: #AAFFEE;
+}
+
+.HighSchool{
+    text-align: end;
+}
+
+footer{
+  text-align: center;
+  font-size: 18px;
+  padding-top: 125px;
+}
+
+.icon{
+  margin-top: -75px;
+}
+
+.back{
+  font-size: 26px;
+  width: 100px;
+  height: 25px;
+  padding: 5px;
+  margin-bottom: 50px; 
+  background-color: black;
+  color: white; 
+  text-decoration: none;
+}

@@ -1,0 +1,89 @@
+html{
+    background-image: url(../img/backgroundimg.jpg);
+    width: 1450px;
+    height: 100%;
+  }
+  
+  body {
+      font-family: cursive, Helvetica, sans-serif;
+      font-size: 20px;
+    }
+
+ .image{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction:column;;
+    margin: 30px;
+    border-radius: 10%;
+    }
+
+    .container {
+        position: relative;
+        justify-content: center;
+        color: white;
+    }
+    
+    a{
+        width: 50px;
+        height: 25px;
+        padding: 10px;
+        text-decoration: none;
+    }
+
+    .back1{
+        display: flex;
+        justify-content: center;
+        margin: 20px;
+        margin-right: -20px;
+    }
+    
+    .Word{
+        font-size:30px; 
+    }
+
+    .word4{
+        text-align: end;
+    }
+
+    .word5{
+        width: 600px;
+        display: flex;
+        justify-content: flex-end;
+        text-align: start;
+        margin-left: 190px;
+    }
+
+    li{
+        padding-left: -150px;
+    }
+
+    .toFourth{
+       display: flex;
+       justify-content: center;
+       padding: 15px;
+       background-color: black;
+       color: white;
+       border-radius: 30%;
+}
+
+footer{
+    text-align: center;
+    font-size: 18px;
+    padding-top: 25px;
+  }
+
+  .icon{
+    margin-top: -75px;
+  }
+
+  .back{
+    font-size: 26px;
+    width: 100px;
+    height: 25px;
+    padding: 5px;
+    margin-bottom: 50px; 
+    background-color: black;
+    color: white; 
+    text-decoration: none;
+  }
